@@ -1,4 +1,4 @@
-package br.com.autoescola;
+package br.com.chatbot;
 
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 
