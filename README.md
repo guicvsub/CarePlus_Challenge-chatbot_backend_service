@@ -231,7 +231,7 @@ Corpo para cadastro:
 }
 ```
 
-> A senha deve ser enviada já encriptada com BCrypt. Para gerar um hash, execute a classe `EncriptadorDeSenha` localizada em `src\test\java\br\com\chatbot\EncriptadorDeSenha.java/`.
+> A senha deve ser enviada já encriptada com BCrypt. Para gerar um hash, execute a classe `EncriptadorDeSenha` localizada em `src\test\java\br\com\chatbot\`.
 
 ## Migrations
 
